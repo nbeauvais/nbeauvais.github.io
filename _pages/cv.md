@@ -1,3 +1,4 @@
+
 ---
 layout: archive
 title: "CV"
@@ -9,7 +10,22 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="files/CV_Nicolas_Beauvais.pdf" type="application/pdf" width="100%" height="800px" />
+<!-- Inline, scrollable PDF -->
+<object 
+  data="{{ '/files/CV_Nicolas_Beauvais.pdf' | relative_url }}" 
+  type="application/pdf" 
+  width="100%" 
+  height="900px">
+  <p>
+    Your browser can't display PDFs inline.
+    <a href="{{ '/files/CV_Nicolas_Beauvais.pdf' | relative_url }}" target="_blank" rel="noopener">
+      Open the CV in a new tab
+    </a>.
+  </p>
+</object>
+
+<!-- (Optional) Keep or delete the Markdown CV below -->
+
 
 Education
 ======
