@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Nicolas Beauvais",
+    "email": "nicolas1beauvais@gmail.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://nbeauvais.github.io",
+    "summary": "Currently employed at Université Paris Cité. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Paris",
+      "countryCode": "FR",
       "region": ""
     },
     "profiles": [
@@ -25,28 +25,28 @@
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "nbeauvais",
+        "url": "https://github.com/nbeauvais"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Université Paris Cité",
+      "area": "Ph.D in Cognitive Science",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2023",
+      "endDate": "2026",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "ENS-PSL -- Université Paris Cité",
+      "area": "M.S. in Cognitive Science",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "startDate": "2020",
+      "endDate": "2023",
       "gpa": null,
       "courses": []
     },
