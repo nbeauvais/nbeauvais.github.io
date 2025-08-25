@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -21,10 +21,3 @@ Concretely, this means addressing questions such as:
 
 I'm also interested in how insights from this research can inform our understanding of environmental attitudes and behaviors, educational practices, and behavior change.  
  
-
-
-
-# Example: editing a Markdown file for a talk #
-# ![Editing a Markdown file for a talk](/images/editing-talk.png) #
-
-
