@@ -1,5 +1,6 @@
 title	type	url_slug	venue	date	location	talk_url	description
-Talk 1 on Relevant Topic in Your Field	Talk	talk-1	UC San Francisco, Department of Testing	2012-03-01	San Francisco, California		This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Tutorial 1 on Relevant Topic in Your Field	Tutorial	tutorial-1	UC-Berkeley Institute for Testing Science	2013-03-01	Berkeley CA, USA	http://exampleurl.com	This is a description of your tutorial, note the different field in type. This is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Talk 2 on Relevant Topic in Your Field	Talk	talk-2	London School of Testing	2014-02-01	London, UK	http://example2.com	This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Conference Proceeding talk 3 on Relevant Topic in Your Field	Conference proceedings talk	talk-3	Testing Institute of America 2014 Annual Conference	2014-03-01	Los Angeles, CA		This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
+Evaluating Argument Strength: Intuitive, Deliberate, and LLM Judgments	Poster	evaluating-argument-strength-llm	Summer Institute on Bounded Rationality, Max-Planck Institute for Human Development	01/06/2025	Berlin, Germany		
+System 2 and Cognitive transparency: Deliberation helps to justify sound intuition during reasoning	Poster	system2-cognitive-transparency	Society for Judgment and Decision-Making Conference	01/11/2024	New York, USA		
+Argument evaluation: Fast and Slow	Poster	argument-evaluation-fast-slow	Psychonomic Society Annual Meeting	01/11/2024	New York, USA		
+Do we need to deliberate to properly justify our intuitions?	Poster	deliberate-to-justify-intuitions-poster	Université Paris Cité’s Institute of Psychology Summer Conference	01/07/2024	Paris, France		
+Do we need to deliberate to properly justify our intuitions?	Talk	deliberate-to-justify-intuitions-talk	International Conference on Thinking	01/06/2024	Milan, Italy		
