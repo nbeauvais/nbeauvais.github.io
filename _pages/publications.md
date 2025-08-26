@@ -9,7 +9,7 @@ citations-hover: false
 
 ## Peer reviewed publications
 
--   @pfanderSpottingFalseNews2025 ([<i class="fas fa-file-pdf"></i> preprint](https://osf.io/preprints/osf/n9h4y) \| [<i class="fab fa-github"></i> code & data](https://github.com/janpfa/meta_news_judgement))
+-   @Beauvais2025 ([<i class="fas fa-file-pdf"></i> preprint](https://osf.io/preprints/osf/n9h4y) \| [<i class="fab fa-github"></i> code & data](https://github.com/janpfa/meta_news_judgement))
 
 -   @pfanderHowWiseCrowd2025 ([<i class="fas fa-file-pdf"></i> preprint](pdfs/2025_cognition_preprint.pdf) \| [<i class="fab fa-github"></i> code & data](https://github.com/janpfander/consensus_trust.git))
 
