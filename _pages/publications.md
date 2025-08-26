@@ -9,16 +9,15 @@ citations-hover: false
 
 ## Peer reviewed publications
 
--   @Beauvais2025 ([<i class="fas fa-file-pdf"></i> preprint](https://osf.io/preprints/osf/n9h4y) \| [<i class="fab fa-github"></i> code & data](https://github.com/janpfa/meta_news_judgement))
+-   @Beauvais2025 ([<i class="fas fa-file-pdf"></i> preprint](https://www.wdeneys.org/data/Beauvais%20et%20al%20Justification%20preprint.pdf) \| [code & data](https://osf.io/pm3je/files/osfstorage))
 
--   @pfanderHowWiseCrowd2025 ([<i class="fas fa-file-pdf"></i> preprint](pdfs/2025_cognition_preprint.pdf) \| [<i class="fab fa-github"></i> code & data](https://github.com/janpfander/consensus_trust.git))
 
 
 ## Working papers
 
--   @pfanderQuasiuniversalAcceptanceBasic2024 (*submitted*)
--   @pfanderTrustingForgettingImpressive2025 (*submitted*)
--   @pfanderFrenchTrustMore2025
+-   Beauvais, N., & De Neys, W. "Argument evaluation, Fast and Slow: Deliberation improves argument strength discrimination but reinforces intuitive preferences"
+-   Grandin, A., Pauron, A., Beauvais, N., & Chevallier, C. "Comparative self-evaluations of personal carbon footprint"
+-   Beauvais, N., Sander, T., & De Neys, W. "Valuing reflection: Are we willing to pay to deliberate?"
 
 
 
