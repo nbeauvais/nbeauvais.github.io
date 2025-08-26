@@ -1,5 +1,9 @@
 ---
 title: Publications
+author_profile: true
+redirect_from: 
+  - /Publications/
+  - /publications-md.md/
 csl: apa-cv.csl
 bibliography: references.bib
 suppress-bibliography: true
