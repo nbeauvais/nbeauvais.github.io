@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,12 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+<style>
+  .page__title {
+    text-align: center;
+  }
+</style>
 
 <style>
   /* Keep the viewer within the viewport and respect A4-ish aspect */
