@@ -1,10 +1,8 @@
 ---
+layout: archive
 title: "Publications"
-layout: single
+permalink: /publications-md/
 author_profile: true
-  - /Publications/
-  - /publications-md.md/
-
 ---
 
 ## Peer reviewed publications
@@ -23,12 +21,6 @@ author_profile: true
 
 ## Talks
 
--   Pfänder, J., & Mercier, H. (2025, March). *Trust in science*. Paris School of International Affairs (Sciences Po), Paris.
+-   Beauvais, N., & De Neys, W. (2025, September). *Argument evaluation: Intuitive, Deliberate, and AI judgments*. Human and Artificial Rationalities Conference, Paris.
 
--   Pfänder, J., & Altay, S. (2025, March). *Spotting False News and Doubting True News. A Meta-Analysis of News Judgments*. Infox sur seine, Paris.
 
--   Pfänder, J. (2024, July). *How wise is the crowd: Can we infer people are accurate and competent merely because they agree with each other?* 46th Annual Meeting of the Cognitive Science Society, Rotterdam.
-
--   Pfänder, J. (2024, June). *Processus sous-tendant la confiance dans la science.* 5ème édition des Rencontres Jeunes Chercheur·euse·s, Grenoble.
-
--   Pfänder, J., & Altay, S. (2024, February). *Spotting False News and Doubting True News: A Meta-Analysis of News Judgments.* EDMO Scientific Conference on Disinformation, Amsterdam.
