@@ -25,4 +25,6 @@ Concretely, this means addressing questions such as:
 
 I'm also interested in how insights from this research can inform our understanding of environmental attitudes and behaviors, educational practices, and behavior change more broadly.  
 
- 
+
+ ---
+(Website in construction, more to come soon :) )
