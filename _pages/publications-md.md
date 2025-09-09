@@ -1,14 +1,10 @@
 ---
-title: Publications
+title: "Publications"
+layout: single
 author_profile: true
-redirect_from: 
   - /Publications/
   - /publications-md.md/
-csl: apa-cv.csl
-bibliography: references.bib
-suppress-bibliography: true
-link-citations: false
-citations-hover: false
+
 ---
 
 ## Peer reviewed publications
