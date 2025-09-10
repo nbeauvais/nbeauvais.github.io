@@ -4,7 +4,7 @@ collection: publications
 category: working
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: ''
-date: 2025
+date: 2025-01-01
 venue: ''
 paperurl: ''
 citation: ''
