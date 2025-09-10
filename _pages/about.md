@@ -14,6 +14,7 @@ I'm Nicolas, a PhD student working on intuitive and deliberate reasoning and dec
 ---
 
 
+
 **Research interests**
 
 My research interests are at the intersection of reasoning, decision-making, metacognition and argumentation. My current work investigates how fast "intuitive" processes interact with slower, more deliberate forms of reasoning, across domains such as problem-solving, information evaluation, and explanation generation.
@@ -26,5 +27,6 @@ Concretely, this means addressing questions such as:
 I'm also interested in how insights from this research can inform our understanding of environmental attitudes and behaviors, educational practices, and behavior change more broadly.  
 
 
- ---
+---
 (Website in construction, more to come soon :) )
+---
