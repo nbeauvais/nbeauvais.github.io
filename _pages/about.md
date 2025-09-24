@@ -22,11 +22,13 @@ My research interests are at the intersection of reasoning, decision-making, met
 Concretely, this means addressing questions such as:
 - What are the different functions of (deliberate) reasoning?
 - How reliable are our intuitions? When should we trust our gut feelings, and when should we pause and reflect to avoid being misled by biases?
-- How good are we at evaluting information intuitively? When engaging deliberate reasoning, do we actually improve our ability to distinguish good from bad arguments, or do we simply generate reasons that reinforce our initial intuitions?
+- How good are we at evaluting information intuitively? When engaging in deliberate reasoning, do we actually improve our ability to distinguish good from bad arguments, or do we simply generate reasons that reinforce our initial intuitions?
 
 I'm also interested in how insights from this research can inform our understanding of environmental attitudes and behaviors, educational practices, and behavior change more broadly.  
 
 
 ---
-(Website in construction, more to come soon :) )
+
+*Website in construction, more to come soon :)*
+
 ---
