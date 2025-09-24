@@ -3,6 +3,9 @@ layout: archive
 title: "Publications"
 permalink: /publications-md/
 author_profile: true
+redirect_from: 
+  - /publications-md/
+  - /publications-md.html
 ---
 
 ## Peer reviewed publications
