@@ -1,7 +1,7 @@
 ---
 title: "Argument evaluation, Fast and Slow: Deliberation boosts argument strength discrimination in reasoning problems"
 collection: publications
-category: manuscripts
+category: working papers
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Manuscript submitted for publication.'
 date: 2025-10-25
