@@ -15,7 +15,7 @@ I'm Nicolas, a PhD student working on intuitive and deliberate reasoning and dec
 
 
 
-**Research interests**
+### Research interests
 
 My research interests are at the intersection of reasoning, decision-making, metacognition and argumentation. My current work investigates how fast "intuitive" processes interact with slower, more deliberate forms of reasoning, across domains such as problem-solving, information evaluation, and explanation generation.
 
@@ -29,7 +29,11 @@ I'm also interested in how insights from this research can inform our understand
 
 ---
 
+Outside the lab, I'm also a member of the [ACTE Lab](https://acte-lab.org/) - the *Behavioral Approach to Ecological Transition* association - which brings together experts in human cognition and social dynamics committed to apply insights from these fields to support the ecological transition.
+
+---
 
 
-*Website in construction, more to come soon :)*
+
+*Website under construction, more coming soon :)*
 
