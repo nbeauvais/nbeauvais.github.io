@@ -15,7 +15,7 @@ redirect_from:
 
 ## Working papers
 
--   Beauvais, N., & De Neys, W. "Argument evaluation, Fast and Slow: Deliberation improves argument strength discrimination but reinforces intuitive preferences"
+-   Beauvais, N., & De Neys, W. "Argument evaluation, Fast and Slow: Deliberation boosts argument strength discrimination in reasoning problems"
 -   Grandin, A., Pauron, A., Beauvais, N., & Chevallier, C. "Comparative self-evaluations of personal carbon footprint"
 -   Beauvais, N., Sander, T., & De Neys, W. "Valuing reflection: Are we willing to pay to deliberate?"
 
