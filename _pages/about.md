@@ -12,9 +12,6 @@ redirect_from:
 I'm Nicolas, a PhD student working on intuitive and deliberate reasoning and decision-making at [LaPsyDÉ](https://www.lapsyde.com/home) (Université Paris Cité & CNRS), supervised by [Wim De Neys](https://www.wdeneys.org/).
 
 ---
-
-
-
   
 ### Research interests
 
@@ -27,7 +24,6 @@ Concretely, this means addressing questions such as:
 
 I'm also interested in how insights from this research can inform our understanding of environmental attitudes and behaviors, educational practices, and behavior change more broadly.  
 
-
 ---
 
 
@@ -36,7 +32,6 @@ I'm also interested in how insights from this research can inform our understand
 Outside the lab, I'm also a member of the [ACTE Lab](https://acte-lab.org/) - the *Behavioral Approach to Ecological Transition* association - which brings together experts in human cognition and social dynamics committed to apply insights from these fields to support the ecological transition.
 
 ---
-
 
 
 *Website under construction, more coming soon :)*
