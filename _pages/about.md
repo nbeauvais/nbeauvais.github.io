@@ -10,8 +10,7 @@ Hello!
 =====
 I'm Nicolas, a PhD student working on intuitive and deliberate reasoning and decision-making at [LaPsyDÉ](https://www.lapsyde.com/home) (Université Paris Cité & CNRS), supervised by [Wim De Neys](https://www.wdeneys.org/).
 
-<br>
-  
+<br>  
 Research interests
 =====
 
@@ -23,7 +22,6 @@ Concretely, this means addressing questions such as:
 - How good are we at evaluting information intuitively? When engaging in deliberate reasoning, do we actually improve our ability to distinguish good from bad arguments, or do we simply generate reasons that reinforce our initial intuitions?
 
 I'm also interested in how insights from this research can inform our understanding of environmental attitudes and behaviors, educational practices, and behavior change more broadly.  
-
 <br>
 
 Beyond the lab
