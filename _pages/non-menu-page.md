@@ -1,6 +1,6 @@
 ---
 permalink: /non-menu-page/
-title: "Page not in menu"
+title: "Research"
 author_profile: true
 redirect_from: 
   - "/nmp/"
