@@ -9,7 +9,7 @@ redirect_from:
 Hello! 
 =====
 I'm Nicolas, a PhD student working on intuitive and deliberate reasoning and decision-making at [LaPsyDÉ](https://www.lapsyde.com/home) (Université Paris Cité & CNRS), supervised by [Wim De Neys](https://www.wdeneys.org/).
-<br>  
+<br>
 
 Research interests
 =====
