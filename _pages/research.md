@@ -13,6 +13,8 @@ Peer-reviewed publications
 - Beauvais, N., Voudouri, A., Boissin, E., & De Neys, W. (2025). System 2 and cognitive transparency: deliberation helps to justify sound intuitions during reasoning. *Thinking & Reasoning*, 1–26. [https://doi.org/10.1080/13546783.2025.2532653](https://doi.org/10.1080/13546783.2025.2532653)
 
 
+
+    
     
 
 Working papers
@@ -25,6 +27,8 @@ Working papers
 
 
 
+
+    
   
 Talks
 ======
