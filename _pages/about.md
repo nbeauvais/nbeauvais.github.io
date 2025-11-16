@@ -21,7 +21,7 @@ Concretely, this means addressing questions such as:
 - How reliable are our intuitions? When should we trust our gut feelings, and when should we pause and reflect to avoid being misled by biases?
 - How good are we at evaluting information intuitively? When engaging in deliberate reasoning, do we actually improve our ability to distinguish good from bad arguments, or do we simply generate reasons that reinforce our initial intuitions?
 
-I'm also interested in how insights from this research can inform our understanding of environmental attitudes and behaviors, educational practices, and behavior change more broadly.  
+I'm also interested in how insights from this research can inform our understanding of environmental attitudes and behaviors, educational practices and behavior change more broadly, or human - AI interactions. 
 <br>
 
 Beyond the lab
