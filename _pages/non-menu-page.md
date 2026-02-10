@@ -18,10 +18,11 @@ Peer-reviewed publications
 Working papers
 ======
 
--   **Beauvais, N.** & De Neys, W. "Argument evaluation, Fast and Slow: Deliberation boosts argument strength discrimination in reasoning problems".
--   Grandin, A., **Beauvais, N.**, Pauron, A. & Chevallier, C. "Comparative self-evaluations of personal carbon footprint".
--   **Beauvais, N.**, Sander, T. & De Neys, W. "Valuing reflection: Are we willing to pay to deliberate?".
--   Matteucci Armandi Avogli Trotti, N., **Beauvais, N.** & De Neys, W. "Deliberation enhances the Knobe effect in attribution of intentionality".
+-   **Beauvais, N.** & De Neys, W. "Argument evaluation, Fast and Slow: Deliberation boosts argument strength discrimination in reasoning problems". *Under review*.
+-   Grandin, A., **Beauvais, N.**, Pauron, A. & Chevallier, C. "Comparative self-evaluations of personal carbon footprint". *Under review*.
+-   **Beauvais, N.** & De Neys, W. "Argument Evaluation Strategies in Human and Machine Reasoning: LLMs Resemble Sound Deliberate (But Not Intuitive) Thinkers". *Under review*.
+-   **Beauvais, N.**, Sander, T. & De Neys, W. "Valuing reflection: Are we willing to pay to deliberate?". *In prep*.
+-   Matteucci Armandi Avogli Trotti, N., **Beauvais, N.** & De Neys, W. "Deliberation enhances the Knobe effect in attribution of intentionality". *In prep*.
 
 <br>    
   
