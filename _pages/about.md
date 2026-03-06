@@ -28,7 +28,7 @@ Recently, I'm also studying how these questions extend to human–AI interaction
 Beyond the lab
 =====
 
-Outside my research work, I am also a member of the [ACTE Lab](https://acte-lab.org/) - an association for the behavioral approach to the ecological transition - which brings together experts in human cognition and social dynamics committed to applying insights from these fields to support the ecological transition.
+Outside my research work, I am also a member of the [ACTE Lab](https://acte-lab.org/), an association for the behavioral approach to the ecological transition which brings together experts in human cognition and social dynamics committed to applying insights from these fields to support the ecological transition.
 
 ---
 
