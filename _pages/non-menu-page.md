@@ -27,7 +27,9 @@ Working papers
 -   Matteucci Armandi Avogli Trotti, N., **Beauvais, N.** & De Neys, W. "Deliberation enhances the Knobe effect in attribution of intentionality". *In prep*.
 -   **Beauvais, N.**<sup>†</sup>, Khorsan, A.<sup>†</sup> & De Neys, W. "Infering reasoning effort and quality from arguments: How justifications quality shape lay judgments about the reasoning of others". *In prep*.
 <br><small><sup>†</sup>Co-first authorship.</small>
+
 <br>    
+
   
 Talks
 ======
