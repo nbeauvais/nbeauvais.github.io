@@ -31,6 +31,7 @@ Working papers
   
 Talks
 ======
+-   Beauvais, N., Sander, T. & De Neys, W. (2026, May). *The Price of Thought: Cost-Benefit Tradeoffs Shape Reasoning Engagement.* Association for Psychological Science Conference, Barcelona.
 -   Beauvais, N. & De Neys, W. (2025, September). *Argument evaluation: Intuitive, Deliberate, and AI judgments*. Human and Artificial Rationalities Conference, Paris.
 -   Beauvais, N., Voudouri, A., Boissin, E. & De Neys, W. (2024, June). *Do we need to deliberate to properly justify our intuitions?* International Conference on Thinking, Milan.
   
