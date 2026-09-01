@@ -9,7 +9,7 @@ redirect_from:
 
 Peer-reviewed publications
 ======
-- **Beauvais, N.** & De Neys, W. (2026). Argument evaluation, Fast and Slow: Deliberation boosts argument strength discrimination in reasoning problems. *Acta Psychologica*, 270, 107725. [https://doi.org/10.1016/j.actpsy.2026.107725].
+- **Beauvais, N.** & De Neys, W. (2026). Argument evaluation, Fast and Slow: Deliberation boosts argument strength discrimination in reasoning problems. *Acta Psychologica*, 270, 107725. [https://doi.org/10.1016/j.actpsy.2026.107725](https://doi.org/10.1016/j.actpsy.2026.107725).
 - **Beauvais, N.**, Voudouri, A., Boissin, E., & De Neys, W. (2026). System 2 and cognitive transparency: deliberation helps to justify sound intuitions during reasoning. *Thinking & Reasoning*, 1–26. [https://doi.org/10.1080/13546783.2025.2532653](https://doi.org/10.1080/13546783.2025.2532653)
 
 <br>
@@ -18,7 +18,7 @@ Peer-reviewed publications
 Conference proceedings
 ======
 
-- **Beauvais, N.** & De Neys, W. (2026). Argument Evaluation Strategies in Human and Machine Reasoning: LLMs Resemble Sound Deliberate (But Not Intuitive) Thinkers. *Proceedings of the Annual Meeting of the Cognitive Science Society*, 48(0). [https://escholarship.org/uc/item/6s10h92s].
+- **Beauvais, N.** & De Neys, W. (2026). Argument Evaluation Strategies in Human and Machine Reasoning: LLMs Resemble Sound Deliberate (But Not Intuitive) Thinkers. *Proceedings of the Annual Meeting of the Cognitive Science Society*, 48(0). [https://escholarship.org/uc/item/6s10h92s](https://escholarship.org/uc/item/6s10h92s).
 
 
 <br>
