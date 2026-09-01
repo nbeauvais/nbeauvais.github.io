@@ -28,7 +28,7 @@ Working papers
 ======
 
 -   Grandin, A., **Beauvais, N.**, Pauron, A. & Chevallier, C. "Comparative self-evaluations of personal carbon footprint". *Under review*.
--   **Beauvais, N.**, Sander, T. & De Neys, W. "Valuing reflection: Are we willing to pay to deliberate?". *Submitted*.
+-   **Beauvais, N.**, Sander, T. & De Neys, W. "Putting a Price on Thought: Rational Reluctance to Deliberate". *Submitted*.
 -   Matteucci Armandi Avogli Trotti, N., **Beauvais, N.** & De Neys, W. "Deliberation enhances the Knobe effect in attribution of intentionality". *In prep*.
 -   **Beauvais, N.**<sup>†</sup>, Khorsan, A.<sup>†</sup> & De Neys, W. "Infering reasoning effort and quality from arguments: How justifications shape lay judgments about the reasoning of others". *In prep*.
 <br><small><sup>†</sup>Co-first authorship.</small>
